@@ -6,4 +6,4 @@
   * script.js
   * style.css
 
-######Player X and Player O takes turn to click the Tic Tac Toe board. Winner will be announced and you can start "New Game" again! Enough set, try it out & let me know what you think.
+######Player X and Player O takes turn to click the Tic Tac Toe board. Winner will be announced and you can start "New Game" again! Enough said, try it out & let me know what you think.
